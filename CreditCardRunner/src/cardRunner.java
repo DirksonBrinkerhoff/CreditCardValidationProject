@@ -10,6 +10,7 @@ public class cardRunner
 		
 		public static void main(String[] args) throws IOException
 		{
+				// new comment
 				// import the text file
 				Scanner myFile = new Scanner(new File("newCardNumbers.txt"));
 				// while loop to run system
@@ -66,6 +67,6 @@ public class cardRunner
 				}
 		}
 		
-		
+		// new comment
 		
 }
